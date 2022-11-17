@@ -29,6 +29,8 @@ public class SalmanStringForGIT {
 		System.out.println("values at index " + i + " are " + o);
 		i++; 
 	}
+	
+		System.out.println("This will be added to a branch first and then Merged");
 	}
 	
 }
