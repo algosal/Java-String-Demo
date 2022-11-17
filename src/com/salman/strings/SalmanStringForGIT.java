@@ -30,7 +30,7 @@ public class SalmanStringForGIT {
 		i++; 
 	}
 	
-		System.out.println("This will be added to a branch first and then Merged");
+		System.out.println("This will be added to a branch first and then Merged and now I am adding Merge Conflicts");
 	}
 	
 }
