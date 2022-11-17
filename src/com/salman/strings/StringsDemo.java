@@ -41,7 +41,10 @@ public class StringsDemo {
 		 
 		 
 		 
-		 System.out.println("The Changes will be Commited and Pushed");
+		 System.out.println("The Changes will be Commited and Pushed\n\n");
+		 
+		 SalmanStringForGIT salGITStrings = new SalmanStringForGIT();
+		 salGITStrings.myStringFunc();
 	
 
 
