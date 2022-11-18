@@ -36,6 +36,7 @@ public class SalmanStringForGIT {
 		System.out.println("Fetch Command Execution with Commit");
 		// changes logging: git log origin/master
 		// differences:     git diff origin/master
+		// This Comment is on the new branch created remotely named feature
 
 	}
 	
