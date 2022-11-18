@@ -33,6 +33,8 @@ public class SalmanStringForGIT {
 
 		System.out.println("This will be added to a branch first and then Merged and now I am adding Merge Conflicts in Master");
 		System.out.println("Finally learnt Merging with Conflicts and pulling from the sub branch");
+		System.out.println("Fetch Command Execution");
+
 
 	}
 	
