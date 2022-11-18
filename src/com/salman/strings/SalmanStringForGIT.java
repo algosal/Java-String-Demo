@@ -37,6 +37,7 @@ public class SalmanStringForGIT {
 		// changes logging: git log origin/master
 		// differences:     git diff origin/master
 		// This Comment is on the new branch created remotely named feature
+		// adding a Pull Request
 
 	}
 	
